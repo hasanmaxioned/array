@@ -103,52 +103,28 @@ li {
   width: 86%; 
   margin: 0 auto;
 }
-/*=================================
-  Header styling starts here
-=================================*/
-
-
-
-
-
-
-/*=================================
-  Header styling ends here
-=================================*/  
 
 /*=================================
   main styling starts here
 =================================*/
 
+div#form-field input {
+  margin: 20px;
+  padding: 10px 12px;
+  border-radius: 5px;
+  border: 1px solid #333;
+}
 
-
-
-
-
-
+div#submit-value input {
+  margin: 0 20px;
+  padding: 10px 16px;
+  background: #ef8d0e;
+  color: #fff;
+  text-transform: uppercase;
+  border: navajowhite;
+  border-radius: 5px;
+}
 
 /*=================================
   main styling ends here
 =================================*/
-
-/*=================================
-  footer styling starts here
-=================================*/ 
-
-
-
-
-
-
-
- /*=================================
-  footer styling ends here
-=================================*/ 
-
-/*media query starts*/
-/*media query for 995px starts here*/
-@media only screen and (max-width: 995px) {
-
-
-
-}  
