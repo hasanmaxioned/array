@@ -109,10 +109,10 @@ li {
 =================================*/
 
 div#form-field input {
-  margin: 20px;
   padding: 10px 12px;
-  border-radius: 5px;
+  margin: 20px;
   border: 1px solid #333;
+  border-radius: 5px;
 }
 
 div#submit-value input {
@@ -120,11 +120,16 @@ div#submit-value input {
   padding: 10px 16px;
   background: #ef8d0e;
   color: #fff;
-  text-transform: uppercase;
   border: navajowhite;
   border-radius: 5px;
+  text-transform: uppercase;
 }
 
+p#text {
+  padding: 10px 0;
+  margin: 20px;
+  text-transform: capitalize;
+}
 /*=================================
   main styling ends here
 =================================*/
